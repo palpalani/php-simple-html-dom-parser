@@ -1,7 +1,7 @@
 php-simple-html-dom-parser
 ==========================
 
-Version 1.5.2
+Version 1.9.0
 
 Adaptation for Composer and PSR-0 of:
 
@@ -18,9 +18,19 @@ Install
 -------
 
  composer.phar
+ 
+```json
+"repositories": [
+   {
+      "type": "git",
+      "url": "https://github.com/palpalani/php-simple-html-dom-parser.git"
+    }
+]
+```
+
 ```json
 "require": {
-    "sunra/php-simple-html-dom-parser": "1.5.2"
+    "sunra/php-simple-html-dom-parser": "dev_master"
     }
 ```
 
