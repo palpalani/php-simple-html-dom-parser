@@ -1,6 +1,7 @@
 /.* export-ignore
-/Src/Sunra/PhpSimple/simplehtmldom_1_5/app export-ignore
-/Src/Sunra/PhpSimple/simplehtmldom_1_5/example export-ignore
-/Src/Sunra/PhpSimple/simplehtmldom_1_5/manual export-ignore
-/Src/Sunra/PhpSimple/simplehtmldom_1_5/testcase export-ignore
-/Src/Sunra/PhpSimple/simplehtmldom_1_5/change_log.txt export-ignore
+/Src/Sunra/PhpSimple/simplehtmldom_1_9/example export-ignore
+/Src/Sunra/PhpSimple/simplehtmldom_1_9/manual export-ignore
+/Src/Sunra/PhpSimple/simplehtmldom_1_9/LICENSE export-ignore
+/Src/Sunra/PhpSimple/simplehtmldom_1_9/CHANGELOG.md export-ignore
+/Src/Sunra/PhpSimple/simplehtmldom_1_9/phpcompatibility.xml export-ignore
+/Src/Sunra/PhpSimple/simplehtmldom_1_9/phpcs.xml export-ignore
