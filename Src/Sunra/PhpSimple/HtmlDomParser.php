@@ -2,7 +2,7 @@
 
 namespace Sunra\PhpSimple;
 
-require 'simplehtmldom_1_8_1'.DIRECTORY_SEPARATOR.'simple_html_dom.php';
+require 'simplehtmldom_1_9'.DIRECTORY_SEPARATOR.'simple_html_dom.php';
 
 class HtmlDomParser {
 	
